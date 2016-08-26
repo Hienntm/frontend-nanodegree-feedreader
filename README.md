@@ -1,8 +1,8 @@
 HOW TO RUN THE APPLICATION
 --------------------------
-This FeedReader application is automatically run for you to use.
-1. Click the hamburger icon to show the menu (click again to hide)
-2. Click a feed selection in the menu and content of feeds will change correspondingly
+1. Open file index.html to run the application.
+2. Click the hamburger icon to show the menu (click again to hide)
+3. Click a feed selection in the menu and content of feeds will change correspondingly
 
 
 HOW TO TEST THE APPLICATION
